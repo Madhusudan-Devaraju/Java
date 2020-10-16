@@ -1,7 +1,5 @@
 package arrays;
 
-import sun.awt.windows.ThemeReader;
-
 public class OneDimensionalArray {
 
 	public static void main(String[] args) {
